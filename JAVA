@@ -1,0 +1,8 @@
+package java;
+public class welcome
+{
+  public static main void (String[]args)
+  {
+  system.output.print("Welcome");
+  }
+}
